@@ -14,7 +14,7 @@ def get_requirements(path: str) -> List[str]:
 	return requirements
 
 setup(
-	name='Telco Customer Churn Prediction',
+	name='telco-customer-churn-prediction',
 	version='0.0.1',
 	author='Niranjanky',
 	author_email='niranjanky14@gmail.com',

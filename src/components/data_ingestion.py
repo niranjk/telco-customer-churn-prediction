@@ -1,0 +1,2 @@
+# data ingestion means to read and load data from various sources into a format suitable for analysis or modeling.
+# This module provides functions to ingest data from different sources like CSV files, databases, or APIs
